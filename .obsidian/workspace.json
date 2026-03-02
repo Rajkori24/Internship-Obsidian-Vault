@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "day 14 - Client Mastery & Meeting Facilitation - The Micro Manager"
             }
-          },
-          {
-            "id": "394d50cfd2fc58ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PM_Intern_RajKori/Day 15 – Assignments – Workshop Facilitation.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 15 – Assignments – Workshop Facilitation.md"
-            }
-          },
-          {
-            "id": "404cf6cf820d746f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "404cf6cf820d746f",
+  "active": "e7255a933d16d765",
   "lastOpenFiles": [
-    "PM_Intern_RajKori/Day 15 – Assignments – Workshop Facilitation.md.md",
     "conflict-files-obsidian-git.md",
     "PM Internship/Session Guides/Feb 25.md",
+    "test/Sample Note.md",
+    "test",
+    "PMIntern_Bhavna/26 Feb - Getting What You Need Without Being Bossy.md",
+    "PM-Intern-Pavithra/26 Feb - Priority List.md",
+    "PM-Intern-Deepika/Getting Work Done Without Authority.md",
+    "PM Internship/Test Report.md",
+    "PM Internship/Session Guides/March 02.md",
+    "PM Internship/Session Guides/Feb 26 2026.md",
+    "PM Internship/Session Guides/Feb 25 2026.md",
+    "PM Intern Dhiraj Roy/Day-14-Workshop & Meeting Facilitation",
+    "PM_Intern_RajKori/Day 15 – Assignments – Workshop Facilitation.md.md",
     "PMIntern_Bhavna/25 Feb - Workshop & Meeting Facilitation Deep Dive.md",
     "PM_Intern_RajKori/day 14 - Client Mastery & Meeting Facilitation - The Micro Manager.md",
     "PMIntern_Bhavna/24 Feb - Client Mastery & Meeting Facilitation.md",
@@ -232,22 +213,12 @@
     "PM Intern Dhiraj Roy/day-13-Client-Escalation-Pack",
     "PM_Intern_RajKori/Day11- summary.md",
     "PM_Intern_RajKori/Day 11 Daily Standups & Sprint Ceremonies.md",
-    "PM_Intern_RajKori/Day 10- Change Management & Scope Control.md",
     "PM_Intern_RajKori",
-    "PM Internship/Session Guides/23 Feb 2026.md",
-    "PM Internship/Session Guides/Untitled.md",
-    "PMIntern_Bhavna/Risk & Compliance in Real Projects.md",
-    "PM-Intern-Deepika/Day 12- Risk, Compliance & Personal Productivity for PMs.md",
     "PM Intern Dhiraj Roy/day-12-Risk, Compliance & Personal Productivity",
     "PM-Intern-Deepika/attachment/Pasted image 20260220115727.png",
     "PM-Intern-Deepika/attachment",
-    "PM-Intern-Deepika/Summary Scope Creep.md",
-    "PM-Intern-Deepika/Retrospective (SCH-90).md",
-    "PM Intern Dhiraj Roy/Day-11-mini-sprint-retrospective.md",
     "Untitled 1.base",
     "Untitled.base",
-    "PMIntern_Bhavna",
-    "PM-Intern-Deepika",
     "How-We-Communicate/assets/teams-interface-annotated.png"
   ]
 }
